@@ -20,10 +20,10 @@ nav ul {
 }
 
 .gameContainer {
-    /* background-color: beige; */
+    background-color: beige;
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 85px;
 }
 
 .container {
